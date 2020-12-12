@@ -5,17 +5,17 @@ http://sourceforge.net/projects/codeblocks/files/Binaries/16.01/Windows/codebloc
 
 
 
-2. Include graphics.h and winbgim.h
+(2)......... Include graphics.h and winbgim.h
 Copy and Paste the graphics.h and winbgim.h files into include folder of Code::Blocks directory.
 
 Path: C:\Program Files (x86)\CodeBlocks\MinGW\include
 
-3. Include libbgi.a
+(3)........ Include libbgi.a
 Copy and paste libbgi.a file in the lib folder of Code:Blocks
 
 Path: C:\Program Files (x86)\CodeBlocks\MinGW\lib
 
-4. Add Link Libraries in Linker Setting
+(4)....... Add Link Libraries in Linker Setting
 In the Code::Blocks application go to, Settings > Compiler
 
 In the Global Compiler setting, click on the Linker Settings
